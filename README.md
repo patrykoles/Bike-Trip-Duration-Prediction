@@ -1,5 +1,6 @@
 # Bike Trip Duration Prediction
 This project was created in collaboration with https://github.com/makimovsky.
+
 For this project we used [Bergen Bike Sharing Dataset (2023)](https://www.kaggle.com/datasets/amykzhang/bergen-bike-sharing-dataset-2023).
 ## Description
 The goal of this project is to develop a predictive model for estimating the duration of a bike trip using different environmental and trip-related factors. The project is structured into two Jupyter Notebooks:
